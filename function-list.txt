@@ -1,0 +1,13 @@
+function list
+================================================================
+  - config global folder & db
+  - validateHash
+  - transfer_bank
+  - sendToSocket
+  - insert_trx
+  - response
+  - processApi
+  - changeToJson
+  - dbConnect
+  - createFileLogAddX
+  - createFileLog

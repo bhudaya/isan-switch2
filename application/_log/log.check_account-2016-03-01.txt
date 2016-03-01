@@ -1,0 +1,3 @@
+trx date : 2016-03-01 00:42:00 |  IP Client : 127.0.0.1 |  Called by : /ws-server-isan/api.php | 3 |  methode : check_account
+Data:{"username":"bhudaya@yahoo.comxxx","product_code":"12345678","merchant_code":"010101","terminal_code":null,"dest_refnumber":null,"dest_bankcode":null,"dest_bankacc":null,"dest_amount":null,"timestamp":"2016-03-01 00:42:00","action":"check_account"}
+

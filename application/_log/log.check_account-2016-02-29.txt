@@ -1,0 +1,12 @@
+trx date : 2016-02-29 12:51:54 |  IP Client : 127.0.0.1 |  Called by : /ws-server-isan/api.php | 3 |  methode : check_account
+Data:{"username":"bhudaya@yahoo.comxxx","product_code":"12345678","merchant_code":"010101","terminal_code":null,"dest_refnumber":null,"dest_bankcode":null,"dest_bankacc":null,"dest_amount":null,"timestamp":null,"action":"check_account"}
+
+trx date : 2016-02-29 12:51:54 |  IP Client : 127.0.0.1 |  Called by : /ws-server-isan/api.php | 3 |  methode : check_account
+Data:{"username":"bhudaya@yahoo.comxxx","product_code":"12345678","merchant_code":"010101","terminal_code":null,"dest_refnumber":null,"dest_bankcode":null,"dest_bankacc":null,"dest_amount":null,"timestamp":null,"action":"check_account"}
+
+trx date : 2016-02-29 12:53:14 |  IP Client : 127.0.0.1 |  Called by : /ws-server-isan/api.php | 3 |  methode : check_account
+Data:{"username":"bhudaya@yahoo.comxxx","product_code":"12345678","merchant_code":"010101","terminal_code":null,"dest_refnumber":null,"dest_bankcode":null,"dest_bankacc":null,"dest_amount":null,"timestamp":null,"action":"check_account"}
+
+trx date : 2016-02-29 12:57:24 |  IP Client : 127.0.0.1 |  Called by : /ws-server-isan/api.php | 3 |  methode : check_account
+Data:{"username":"bhudaya@yahoo.comxxx","product_code":"12345678","merchant_code":"010101","terminal_code":null,"dest_refnumber":null,"dest_bankcode":null,"dest_bankacc":null,"dest_amount":null,"timestamp":"2016-02-29 12:57:24","action":"check_account"}
+
